@@ -1,0 +1,11 @@
+# Local MySQL database files
+data/
+
+# Local WordPress installation/runtime files
+wordpress/
+
+# Installed WordPress plugins
+plugins/
+
+# macOS junk
+.DS_Store
